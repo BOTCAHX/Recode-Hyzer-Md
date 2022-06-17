@@ -4,7 +4,7 @@ let handler = async(m, { conn, text, participants }) => {
 		      	for (let mem of participants) {
 		            teks += ` @${mem.id.split('@')[0]}\n`
 				}
-                teks += `\nbukan elyas`
+                teks += `\nIni di tag admin bukan bot yg tag yah\n\n_Jadi jangan marah ke bot!_`
                 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
 handler.help = ['tagall <pesan>']
