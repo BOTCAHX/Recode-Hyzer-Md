@@ -11,7 +11,7 @@ let handler = async (m, { conn, command, args }) => {
     status: 1,
     surface : 1,
     message: 'Get Limit', 
-    orderTitle: `Hyzer`,
+    orderTitle: `Wabot`,
     thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
