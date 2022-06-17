@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Tio'
+global.nameowner = 'OwnerTio [Jangan chat owner kl gk perlu]'
 global.numberowner = '6282221792667'
 global.instagram = 'https://instagram.com/prm2.0'
 global.github = 'https://github.com/BOTCAHX'
@@ -14,7 +14,7 @@ global.gopay = '08xxxxxx'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Bot Whatsapp'
-global.gc = 'myblogxyz.netlify.app'
+global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -25,7 +25,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Bot WhatsApp'
 global.watermark = wm
-global.wm2 = '                     「 Bot Whatsapp⁩ 」'
+global.wm2 = '                     「 © Made with ♥ by TioXd⁩ 」'
 global.wm3 = '⫹⫺ MultyDevice'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© stikerbot'
+global.author = '© Bot Sticker\nBy TioXd'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -81,7 +81,7 @@ global.APIKeys = { // APIKey Here
 }
 
 //=============『 RPG GAMES 』================== //
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 70 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
