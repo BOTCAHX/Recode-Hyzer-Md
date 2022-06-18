@@ -10,7 +10,6 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
 ├ Dana : ${dana}
 ├ Pulsa : ${pulsa}
-├ Gopay : ${gopay}
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
