@@ -25,7 +25,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Bot WhatsApp'
 global.watermark = wm
-global.wm2 = '                     「 © Made with ♥ by TioXd⁩ 」'
+global.wm2 = '            「 © Made with ♥ by TioXd⁩ 」'
 global.wm3 = '⫹⫺ MultyDevice'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -35,9 +35,9 @@ global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = 'Stiker sedang dibuat...'
 global.packname = '2022'
-global.author = '© Bot Sticker\nBy TioXd'
+global.author = '© Bot Sticker\nBy TioXd\n\nig:prm2.0'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
