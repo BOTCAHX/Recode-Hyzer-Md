@@ -26,18 +26,18 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© TioXd'
 global.watermark = wm
 global.wm2 = '            「 © Made with ♥ by TioXd⁩ 」'
-global.wm3 = '⫹⫺ TioXd'
+global.wm3 = '© TioXd'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*⫹⫺ tunggu sedang di proses...*_'
-global.eror = '_*⫹⫺ Server Error*_'
+global.wait = '_*Tunggu sedang di proses...*_'
+global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat...'
-global.packname = '2022'
-global.author = '⫹⫺ Bot Sticker\nBy TioXd\n\nig:prm2.0\n⫹⫺ BOTCAHX'
+global.stiker_wait = '⫹⫺ Stiker sedang dibuat...'
+global.packname = '⫹⫺ Made with'
+global.author = '© Bot Sticker\nBy TioXd\n\nig:prm2.0\n\n© BOTCAHX'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -81,7 +81,7 @@ global.APIKeys = { // APIKey Here
 }
 
 //=============『 RPG GAMES 』================== //
-global.multiplier = 70 // The higher, The harder levelup
+global.multiplier = 69 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
