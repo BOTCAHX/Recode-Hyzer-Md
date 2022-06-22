@@ -15,7 +15,7 @@ global.gopay = 'Coming soon'
 //=============『 Info Bot 』=================//
 global.namebot = 'BOTCAHX'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -26,18 +26,18 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© TioXd'
 global.watermark = wm
 global.wm2 = '            「 © Made with ♥ by TioXd⁩ 」'
-global.wm3 = '⫹⫺ Database'
+global.wm3 = '⫹⫺ TioXd'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.wait = '_*⫹⫺ tunggu sedang di proses...*_'
+global.eror = '_*⫹⫺ Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat...'
 global.packname = '2022'
-global.author = '© Bot Sticker\nBy TioXd\n\nig:prm2.0'
+global.author = '⫹⫺ Bot Sticker\nBy TioXd\n\nig:prm2.0\n⫹⫺ BOTCAHX'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
