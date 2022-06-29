@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OwnerTio [Jangan chat owner kl gk perlu]'
+global.nameowner = 'OwnerTio !Jangan chat owner kl gk perlu!'
 global.numberowner = '6282221792667'
 global.instagram = 'https://instagram.com/prm2.0'
 global.github = 'https://github.com/BOTCAHX'
@@ -25,7 +25,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© TioXd'
 global.watermark = wm
-global.wm2 = '            「 © Made with ♥ by TioXd⁩ 」'
+global.wm2 = '「© 2022-TioXd 」'
 global.wm3 = '© TioXd'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⫹⫺ Stiker sedang dibuat...'
-global.packname = '⫹⫺ Made with'
-global.author = '© Bot Sticker\nBy TioXd\n\nig:prm2.0\n\n© BOTCAHX'
+global.packname = 'Made with'
+global.author = 'Bot Sticker\nBy TioXd\n\nig:prm2.0\n\nGithub: BOTCAHX'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
