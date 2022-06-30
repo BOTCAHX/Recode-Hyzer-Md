@@ -529,8 +529,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
            {
              quickReplyButton: {
-               displayText: 'Speedtest',
-               id: '.speedtest',
+               displayText: 'Back',
+               id: '.menu',
              }
            }]
          }
