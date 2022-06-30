@@ -25,7 +25,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© TioXd'
 global.watermark = wm
-global.wm2 = '「© 2022-TioXd 」'
+global.wm2 = '© 2022-TioXd'
 global.wm3 = '© TioXd'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -35,9 +35,9 @@ global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '⫹⫺ Stiker sedang dibuat...'
+global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot Sticker\nBy TioXd\n\nig:prm2.0\n\nGithub: BOTCAHX'
+global.author = 'Bot WhatsApp\nBy TioXd'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -81,7 +81,7 @@ global.APIKeys = { // APIKey Here
 }
 
 //=============『 RPG GAMES 』================== //
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 20 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
