@@ -1,7 +1,7 @@
 /**
 * create by hyzer official
 * g usah di hapus anjg, gw cape sumpah
-* sc free, bayar pake subs aja udh good
+* sc free, bayar pake syubs aja udh good
 * jika ada bug/mau request fitur
 * chat me on wa https://wa.me/6287892711054
 * follow my instagram @zexyds_
@@ -302,20 +302,28 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
         listMessage: {
             title: `${ucapan()} ${name}`,
             description: menuu,
-            buttonText: 'LIST MENU',
+            buttonText: 'Menu',
             listType: 1,
-            footerText: "Silahkan Pilih Menu Di Bawah Ini.",
+            footerText: "Pilih Sub Menu Di Bawah Ini.",
             mtype: 'listMessage',
             sections: [
               {
                 "rows": [{
-                  "title": ` 👨 OWNER BOT`,
+                  "title": `🚀 SPEEDTEST`,
+                  "description": "Untuk Melihat Kecepatan Download Bot",
+                  "rowId": `.speedtest`
+                },{
+                  "title": ` 👨 OWNER`,
                   "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
                   "rowId": `.owner`
                 },{
                   "title": "❗ INFO BOT",
                   "description": "Menampilkan Menu Info",
                   "rowId": `${_p}? info`
+                },{
+                  "title": `🖼️ TEXTPRO`,
+                  "description": "Untuk MemBuat logo Text",
+                  "rowId": `.textpro`
                 }],
                 "title": "INFORMASI BOT"
               }, {
@@ -535,8 +543,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
            {
              quickReplyButton: {
-               displayText: 'Credits',
-               id: '.tqto',
+               displayText: 'Speedtest',
+               id: '.speedtest',
              }
            }]
          }
