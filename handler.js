@@ -708,7 +708,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Hi, Selamat Datang').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Selamat tinggal'))
-                                this.sendButtonImg(id, pp, text, "Group Message", "Hi👋", "Ok", null)
+                                this.sendButtonImg(id, pp, text, "Group Message", "Oke Bot👌", "Ok", null)
                                 }
                     }
                 }
@@ -754,7 +754,7 @@ global.dfail = (type, m, conn) => {
         private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
         admin: 'Perintah ini hanya untuk *Admin* grup!',
         botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan perintah ini!',
-        unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Manusia.16*',
+        unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Mansur.16*',
         restrict: 'Fitur ini di *disable*!'
     }[type]
     if (msg) return m.reply(msg)
