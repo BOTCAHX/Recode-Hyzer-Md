@@ -310,6 +310,10 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "title": `🖼️ TEXTPRO`,
                   "description": "Untuk MemBuat logo Text",
                   "rowId": `.textpro`
+                },{
+                  "title": `🎁 REFERAL`,
+                  "description": "Untuk Mendapatkan Hadiah Exp",
+                  "rowId": `.ref`
                 }],
                 "title": "INFORMASI BOT"
               }, {
