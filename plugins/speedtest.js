@@ -17,4 +17,6 @@ handler.help = ['speedtest']
 handler.tags = ['info']
 handler.command = /^(speedtest)$/i
 
+handler.owner = true
+
 module.exports = handler
